@@ -6,7 +6,7 @@ Meu nome é Paulo Eduardo
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projeto desenvolvidos
 - 
-- 
+  
 - 
 - 
 - 
